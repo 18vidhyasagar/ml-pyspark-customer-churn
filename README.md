@@ -1,0 +1,2 @@
+# ml-pyspark-customer-churn
+The code was written for Big Data Infrastructure final capstone project to predict the customer churn for a telecom company. Data was sourced from Kaggle but can run on databricks independent of supporting documents/datasets. It includes techniques like hyperparameter tuning for feature engineering and model evaluation. Random Forest Classifier model served us with the best accuracy at 71%.
